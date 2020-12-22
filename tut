@@ -1,0 +1,10 @@
+CLAxLM00015844:git-tutorial funda$ git remote add origin https://github.com/fdurupinar/git-tutorial.git
+CLAxLM00015844:git-tutorial funda$ git push -u origin master
+
+Enumerating objects: 3, done.
+Counting objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 230 bytes | 230.00 KiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0)
+To https://github.com/fdurupinar/git-tutorial.git
+ * [new branch]     master -> master
+Branch 'master' set up to track remote branch 'master' from 'origin'.
